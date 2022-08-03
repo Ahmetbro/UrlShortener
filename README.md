@@ -75,7 +75,7 @@ variable to match ports
 
 * get
 
-* Example payload and response
+**Example payload and response**
 
 Payload:
 ```json
